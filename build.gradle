@@ -5,7 +5,7 @@ apply plugin: 'war'
 group = 'com.pluralsight'
 version = '0.0.1-SNAPSHOT'
 
-description = """FitnessTracker Maven Webapp"""
+description = """FitnessTracker Webapp With JPA & Hibernate"""
 
 
 repositories {

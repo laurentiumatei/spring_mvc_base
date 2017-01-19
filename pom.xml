@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pluralsight</groupId>
-  <artifactId>FitnessTracker</artifactId>
+  <artifactId>FitnessTrackerJPAHibernate</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>FitnessTracker Maven Webapp</name>
@@ -52,6 +52,6 @@
 	</dependency>    
   </dependencies>
   <build>
-    <finalName>FitnessTracker</finalName>
+    <finalName>FitnessTrackerJPAHibernate</finalName>
   </build>
 </project>
